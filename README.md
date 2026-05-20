@@ -4,7 +4,7 @@ An AI-powered, modern desktop quiz application built with **Python**, **Tkinter*
 
 ---
 
-♤~~Features~~♤
+# ♤Features♤
 * **Hybrid Question Engine:** Switch seamlessly between a curated, local question bank and dynamic, AI-generated MCQs based on difficulty parameters.
 * **Persistent Leaderboard:** Integrated **SQLite** backend that tracks high scores, difficulty modes, and completion timestamps.
 * **Asynchronous Processing:** Built using Python's `threading` module to ensure the Tkinter GUI remains completely responsive and interactive while fetching AI payloads in the background.
