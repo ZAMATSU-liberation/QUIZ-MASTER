@@ -1,0 +1,8 @@
+thinker
+sqlite3
+random 
+json
+os
+time
+threading 
+urllib.request
