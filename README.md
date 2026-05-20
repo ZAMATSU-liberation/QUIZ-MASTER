@@ -1,4 +1,4 @@
- QUIZ-MASTER PRO
+## QUIZ-MASTER PRO
 
 An AI-powered, modern desktop quiz application built with **Python**, **Tkinter**, and **SQLite**. The system bridges standard local gameplay with dynamic, on-the-fly AI question generation using state-of-the-art Large Language Models.
 
