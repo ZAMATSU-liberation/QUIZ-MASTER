@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS scores(
 conn.commit()
 
 # =========================================================
-# COLORS
+# COLORS # this actually is the frontend of code add colors to elements------------------------------------
 # =========================================================
 
 COLORS = {
